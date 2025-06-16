@@ -1,0 +1,8 @@
+version: 1.2.1
+files:
+  - url: TLDA-Research-Center-Setup-1.2.1.exe
+    sha512: irnxGJDNsTHbr8qPhajkNSEz9qGxzX98PtqZEBDGE2hIEOAby7PvEVOz+bG+/O7i90AvCB+PfYPB5HrIY1eBNA==
+    size: 78465090
+path: TLDA-Research-Center-Setup-1.2.1.exe
+sha512: irnxGJDNsTHbr8qPhajkNSEz9qGxzX98PtqZEBDGE2hIEOAby7PvEVOz+bG+/O7i90AvCB+PfYPB5HrIY1eBNA==
+releaseDate: '2025-06-16T19:18:34.029Z'
