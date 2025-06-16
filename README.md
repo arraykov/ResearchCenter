@@ -1,11 +1,11 @@
 # TLDA Research Center - Downloads
 
-## Latest Release: v1.2.2
+## Latest Release: v1.2.3
 
 ### Downloads:
 Download the latest release from: [Releases Page](https://github.com/${RELEASE_REPO}/releases/latest)
 
-- **Windows Installer**: `TLDA Research Center Setup 1.2.2.exe`
-- **Windows Portable**: `TLDA Research Center 1.2.2.exe`
+- **Windows Installer**: `TLDA Research Center Setup 1.2.3.exe`
+- **Windows Portable**: `TLDA Research Center 1.2.3.exe`
 - **Auto-updater metadata**: Available for existing installations
 
